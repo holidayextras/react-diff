@@ -29,6 +29,6 @@
     "react": "^16.4.1"
   },
   "devDependencies": {
-    "babel": "^5.1.10"
+    "babel": "^6.23.0"
   }
 }
